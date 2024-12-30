@@ -2,7 +2,7 @@
 
 ### About me
 
-A problem-solving, coffee-fueled engineer who’s passionate about using technology to make life better. Whether it’s designing _**autonomous systems**_,exploring**_AI for social good_**,diving into AI models, or brainstorming ways to improve communities, I’m all about innovation with impact.
+A problem-solving, coffee-fueled engineer who’s passionate about using technology to make life better. Whether it’s designing _**autonomous systems**_, exploring **_AI for social good_** , diving into AI models, or brainstorming ways to improve communities, I’m all about innovation with impact.
 
 ### 🌟 What I’m Up To
 
@@ -26,4 +26,4 @@ Diving into the world of computer science and exploring the math behind AI and D
 
 Want to collaborate on a project? Talk AI? Let’s connect on [linkedIn](https://www.linkedin.com/in/razan-ibrahim-0aabb518b/)!
 
-> _Learning never stops. Ever._ "
+> _**Learning never stops. Ever.**_ "
